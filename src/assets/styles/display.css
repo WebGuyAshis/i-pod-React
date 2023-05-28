@@ -17,7 +17,7 @@
     justify-content: space-between;
     align-items: center;
     height: 10%;
-    background-color: rgb(242, 242, 242);
+    background-color: rgb(230, 230, 230);
     padding: 0px 20px; 
 }
 #ipod-title{
@@ -35,13 +35,15 @@
 }
 
 .nav-cat{
+    margin: auto;
     list-style: none;
     height: 20%;
     /* background-color: cadetblue; */
-    padding: 0 10px;
+    padding: 0 7px;
     display: flex;
     align-items: center;
-    font-size: 18px;
+    font-size: 16px;
+    /* font-size: 1.1em; */
 }
 .nav-cat:hover{
     background-color: rgb(46, 133, 255);
